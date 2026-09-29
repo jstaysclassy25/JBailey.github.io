@@ -31,4 +31,6 @@ switch (randomQuote) {
         selectedQuote = quote6;
         break;
 
- console.log(alert(selectedQuote));
+}
+
+alert(selectedQuote);
