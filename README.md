@@ -6,5 +6,6 @@
   - Screenshot 2026-09-22 150329.png
   - Screenshot 2026-09-26 200912.png
   - Screenshot 2026-09-28 142338.png
+  - su-san-lee-E_eWwM29wfU-unsplash.jpg
   - index.html
   - styles.css
