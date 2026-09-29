@@ -9,9 +9,16 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 100%;
-  border: 5px solid rgb(161, 9, 175);
+  border: 3px solid rgb(161, 9, 175);
   display: block;
   margin: 0 auto;
+}
+
+.course-image {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
 }
 
 h1, h2 {
