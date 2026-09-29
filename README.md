@@ -9,3 +9,4 @@
   - su-san-lee-E_eWwM29wfU-unsplash.jpg
   - index.html
   - styles.css
+  - quotes.js
