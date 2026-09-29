@@ -35,7 +35,7 @@ p {
   font-size: 30px;
 }
 
-.social-link {
+.social-link:link {
   color: white;
   font-family: Arial, Helvetica, sans-serif, sans-serif;
   text-align: center;
@@ -56,6 +56,33 @@ ol {
   font-family: Arial, Helvetica, sans-serif, sans-serif;
   text-align: center;
   font-size: 30px;
-  list-style-position: outside;
+  list-style-position: inside;
   list-style-type: square;
+}
+
+.social-link:visited {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  display: block;
+  margin: 10px auto;
+}
+
+.social-link:hover {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  display: block;
+  margin: 10px auto;
+}
+
+.social-link:active {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  display: block;
+  margin: 10px auto;
 }
