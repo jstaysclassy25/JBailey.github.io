@@ -1,3 +1,15 @@
 body {
   background-image: url('36810156-free-blackboard-blackboard-image.jpg');
 }
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+h1 {
+  color: white;
+  font-family: friday-night-lights, sans-serif;
+}
