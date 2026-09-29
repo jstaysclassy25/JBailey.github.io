@@ -32,4 +32,4 @@
                 break;
         }
 
-        console.log(alert(selectedQuote));
+        console.log(selectedQuote);
