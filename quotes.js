@@ -1,4 +1,4 @@
-alert.addEventListener("click", (selectedQuote) => {
+alert.addEventListener("click", () => {
 
         const quote1 = "Be the change that you wish to see in the world. ― Mahatma Gandhi";
         const quote2 = "You've gotta dance like there's nobody watching, Love like you'll never be hurt, Sing like there's nobody listening, And live like it's heaven on earth. ― William W. Purkey";
@@ -34,5 +34,5 @@ alert.addEventListener("click", (selectedQuote) => {
                 break;
         }
 
-        document.getElementById("quote").textContent = selectedQuote;
-    });
+        alert(selectedQuote);
+});
