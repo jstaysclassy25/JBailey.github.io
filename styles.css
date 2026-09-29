@@ -50,3 +50,12 @@ p {
   display: block;
   margin: 20px auto;
  } 
+
+ol {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  list-style-position: outside;
+  list-style-type: square;
+}
