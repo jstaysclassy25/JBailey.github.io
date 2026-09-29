@@ -14,7 +14,7 @@ body {
   margin: 0 auto;
 }
 
-.course-image {
+.course-image, .travel-image {
   width: 50%;
   height: auto;
   display: block;
