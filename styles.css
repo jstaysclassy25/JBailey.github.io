@@ -25,7 +25,10 @@ p {
   font-size: 30px;
 }
 
-.social-link {
-  display: inline-block;
+.social-link1 {
+  margin: auto
+}
+
+.social-link2 {
   margin: auto
 }
