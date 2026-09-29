@@ -33,4 +33,4 @@ switch (randomQuote) {
 
 }
 
-alert(selectedQuote);
+document.getElementById("quote-display").innerText = selectedQuote;
